@@ -16,7 +16,7 @@ pip3 install pptree
   python3 main.py {{file(s)}}
 ``` 
 
-
+*Note:* If execution fails as `python3` run as `python` - `python3` test and working in Linux, `python` tested and working in Windows. 
 # Documentation
 ### The Node Class
 Each node class has a `grammarType` variable. For non-terminals, this `grammartype` specifies the rule being applied. For terminals, 
