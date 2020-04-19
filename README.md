@@ -13,7 +13,7 @@ pip3 install pptree
   
   If no files are given, `exec()` will run on `input2.txt`.
 ```
-  python3 main.py {{file(s)}}
+  python3 main.py {{file(s)}} > outPutFileOfYourChoosing
 ``` 
 
 *Note:* If execution fails as `python3` run as `python` - `python3` test and working in Linux, `python` tested and working in Windows. 
