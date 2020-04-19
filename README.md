@@ -12,6 +12,8 @@ pip3 install pptree
 - Parse and print file(s) (for multiple files, separate file paths by spaces) to standard out:
   
   If no files are given, `exec()` will run on `input2.txt`.
+  
+  Must be using linux / macOS
 ```
   python3 main.py {{file(s)}} > outPutFileOfYourChoosing
 ``` 
